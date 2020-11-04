@@ -92,7 +92,7 @@ p {
     color: hsl(217, 12%, 35%);
     background: hsl(0, 0%, 100%);
 }
-@media only screen and (max-width:1020px) {
+@media only screen and (max-width:1120px) {
     .quote-section {
         grid-template-columns: repeat(2,19.6em);
         grid-template-rows: repeat(4,auto);
@@ -103,7 +103,7 @@ p {
     
 
 }
-@media only screen and (max-width:540px) {
+@media only screen and (max-width:600px) {
     .quote-section {
         grid-template-columns: 25.1em;
         grid-template-rows: 445px 240px 223px 386px 437px;
